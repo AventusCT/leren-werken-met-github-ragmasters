@@ -29,4 +29,16 @@ th, td {
     text-align: left;
 }
 
+ul, li {
+    color: blue;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 400px;
+    border: 0px;
+    border-color: black;
+    border-radius: 10px;
+    border: 2px;
+}
+
 /* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
